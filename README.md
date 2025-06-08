@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/ankit parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit parashar" height="30" width="40" /></a>
 <a href="https://instagram.com/parashar__ankit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parashar__ankit_" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aloft_olive_65" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aloft_olive_65" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/carbo-ev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="carbo-ev" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ankit1-2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="carbo-ev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
